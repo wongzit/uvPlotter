@@ -1,10 +1,6 @@
 # uv.Plotter
 ![](./assets/uvPlotter_wide.png)
 
-<p align = "center">
-<img alt="uvPlotter" class="icon" src="/assets/uvPlotter/uvPlotter_wide.png">
-</p>
-
 Latest version: **1.0.0**, updated at 2022-08-03
 
 ## 1. Overview
